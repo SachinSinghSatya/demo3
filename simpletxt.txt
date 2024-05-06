@@ -1,0 +1,9 @@
+Hello how are you
+>
+:q!
+x
+^x
+^X
+xit
+exit
+
